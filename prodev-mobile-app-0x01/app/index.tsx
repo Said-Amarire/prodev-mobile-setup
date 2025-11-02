@@ -1,12 +1,12 @@
 import React from 'react';
-import { Text, View, StyleSheet } from 'react-native';
+import { View, Text, StyleSheet } from 'react-native';
 
 export default function App() {
   return (
     <View style={styles.container}>
       <Text style={styles.largeText}>Typescript is great if you practice more</Text>
       <Text style={styles.mediumText}>React Native provides you a single codebase for cross platforms</Text>
-      <Text style={styles.smallText}>ALX is awesome</Text>
+      <Text style={styles.smallText}>Entry Screen - Awesome</Text>
     </View>
   );
 }
@@ -16,7 +16,7 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: "#90caf9",
     justifyContent: "center",
-    alignItems: "center"
+    alignItems: "center",
   },
   largeText: {
     fontSize: 30,
@@ -30,7 +30,7 @@ const styles = StyleSheet.create({
     color: "#9c27b0",
     marginBottom: 10,
     fontWeight: "500",
-    textAlign: "right",
+    textAlign: "center",
   },
   smallText: {
     fontSize: 15,
