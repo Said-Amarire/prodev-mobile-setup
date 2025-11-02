@@ -15,3 +15,8 @@ Before starting, ensure you have the following installed:
 1. Clone this repository:
 ```bash
 git clone https://github.com/your-username/prodev-mobile-setup.git
+
+## Reset Project
+To reset the project to its initial state, run the following command:
+
+npm run reset-project
