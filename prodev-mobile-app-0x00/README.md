@@ -4,3 +4,5 @@
 1. Created new Expo app using `npx create-expo-app@latest .`
 2. Modified home screen text to "First App Created"
 3. Confirmed app runs correctly with `npx expo start`
+## Reset Project
+To reset the project to its initial state, run the following command:
