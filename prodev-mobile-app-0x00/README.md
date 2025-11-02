@@ -1,8 +1,17 @@
-# First Mobile App
+# prodev-mobile-app-0x00
 
-## Steps Followed
-1. Created new Expo app using `npx create-expo-app@latest .`
-2. Modified home screen text to "First App Created"
-3. Confirmed app runs correctly with `npx expo start`
-## Reset Project
-To reset the project to its initial state, run the following command:
+## Project Overview
+This project is part of the Mobile Development with React Native section of ALX.  
+It demonstrates setting up a mobile development environment using **React Native**, **TypeScript**, **NativeWindCSS**, and **Expo**.
+
+## Development Environment Setup
+Before starting, ensure you have the following installed:
+- Node.js (LTS version)
+- VS Code
+- Expo CLI: `npm install -g expo-cli`
+- Expo Go app on your physical device (iOS or Android)
+
+### Steps:
+1. Clone this repository:
+```bash
+git clone https://github.com/your-username/prodev-mobile-setup.git
