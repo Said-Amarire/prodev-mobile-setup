@@ -14,7 +14,7 @@ Before starting, ensure you have the following installed:
 ### Steps:
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/prodev-mobile-setup.git
+git clone https://github.com/said-amarire/prodev-mobile-setup.git
 
 ## Reset Project
 To reset the project to its initial state, run the following command:
